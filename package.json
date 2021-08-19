@@ -1,6 +1,6 @@
 {
   "name": "@tajawal/http-proxy",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tajawal/node-http-proxy.git"
