@@ -8,3 +8,5 @@ coverage
 CHANGELOG.md
 UPGRADING.md
 .nmprc
+.release-it.json
+.idea
